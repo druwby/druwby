@@ -1,5 +1,8 @@
 # 👋 Hey there, I'm Drew!
 
+<img src="banner.jpg" alt="Top Banner" width="100%">
+
+
 Welcome to my GitHub! I'm a Computer Science student at California State University, Fullerton, passionate about coding, learning new technologies, and grinding leetcode. I love working on projects that challenge me and help me grow as a developer.
 
 ## 💻 About Me
