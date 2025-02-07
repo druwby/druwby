@@ -1,17 +1,19 @@
 # 👋 Hey there, I'm Drew!
-
 <img src="banner.jpg" alt="Top Banner" width="100%">
 
 
 Welcome to my GitHub! I'm a Computer Science student at California State University, Fullerton, passionate about coding, learning new technologies, and grinding leetcode. I love working on projects that challenge me and help me grow as a developer.
 
+## 💗 Right Now I'm...
+- 🐍 Honing my DSA skills with Python!
+- 🤖 Building a Discord Bot with a webapp interface!
+- 🌱 Exploring C++ libraries, including raylib and JoltPhysics to develop a rigid body physics engine!
+
 ## 💻 About Me
 
 - 🎓 Studying Computer Science at CSUF
-- 🔨 Building a C++ compiler from scratch for my compilers class
 - 💡 Enthusiastic about algorithms, data structures, and efficient software design
-- 🌱 Currently exploring C++ libraries, including raylib and JoltPhysics to develop a rigid body physics engine!
-- ⚡ Fun fact: I spend way too much time perfecting my terminal-based environment, and my go-to tools are Alacritty, tmux, and Neovim!
+- ⚡ Spend way too much time perfecting my terminal-based environment (Alacritty, tmux, and Neovim)
 
 ## 🌟 What I Love to Work On
 
