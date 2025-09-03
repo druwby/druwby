@@ -1,25 +1,20 @@
-# 👋 Hey there, I'm Drew!
+# 👁️👄👁️ Hey there, I'm Drew!
 <img src="banner.jpg" alt="Top Banner" width="100%">
 
 
-Welcome to my GitHub! I'm a Computer Science student at California State University, Fullerton, passionate about coding, learning new technologies, and grinding leetcode. I love working on projects that challenge me and help me grow as a developer.
+Welcome to my GitHub! I'm a Computer Science student at California State University, Fullerton, passionate about coding, learning new technologies, and grinding leetcode. I love playing video games and learning how they work under the hood.
 
 ## 💗 Right Now I'm...
 - 🐍 Honing my DSA skills with Python!
-- 🤖 Building a Discord Bot with a webapp interface!
-- 🌱 Exploring C++ libraries, including raylib and JoltPhysics to develop a rigid body physics engine!
+- 🎮 Learning to build games with Unity and Roblox Studio!
+- 🤖 Exploring AI and Machine Learning!
 
 ## 💻 About Me
 
 - 🎓 Studying Computer Science at CSUF
 - 💡 Enthusiastic about algorithms, data structures, and efficient software design
 - ⚡ Spend way too much time perfecting my terminal-based environment (Alacritty, tmux, and Neovim)
-
-## 🌟 What I Love to Work On
-
-- 🧠 Low-level programming and compilers
-- 🌍 Web development (preferably backend)
-- 🔧 Optimizing workflows with custom scripts and automation
+- ❤️‍🔥 Addicted to Valorant and League of Legends..
 
 ## 🛠️ Technologies I Use
 
